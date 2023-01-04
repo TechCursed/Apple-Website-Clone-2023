@@ -33,6 +33,7 @@ h1{
     font-size: 1.5rem;
     text-decoration: none;
     padding-bottom: 20px;
+    color: #2996FD;
 }
 
 .iPhoneImages{
@@ -59,4 +60,34 @@ h1{
 .Wow a{
     font-size: 2rem;
     text-decoration: none;
+}
+
+.watch{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    color: #F8F8F8;
+}
+
+.watch h2{
+   padding-top: 30px;
+   font-size: 4rem;
+}
+
+.watch h5{
+    color: #CC2127;
+    font-size: 1.5rem;
+ }
+
+ .watch h4{
+    font-size: 2rem;
+    padding-bottom: 10px;
+ }
+
+.watch p a{
+    color: #2996FD;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-bottom: 20px;
 }
