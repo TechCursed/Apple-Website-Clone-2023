@@ -7,3 +7,56 @@
 .navbar-brand:hover{
     color: #F8F8F8;
 }
+
+h1{
+    font-size: 4rem;
+    padding-top: 40px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+}
+
+.iPhone{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+
+.iPhone p{
+    font-size: 2rem;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+.iPhone p a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.iPhoneImages{
+    display: flex;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+
+.Wow{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #010028;
+    color: #F8F8F8;
+}
+
+.Wow p{
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.Wow a{
+    font-size: 2rem;
+    text-decoration: none;
+}
