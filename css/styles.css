@@ -108,15 +108,68 @@ html a:hover{
 }
 
 .container{
-    display: inline-block;
-    justify-content: center;
-    margin: 0 auto;
+
+    display: flex;
+    width: fit-content;
 }
 
-.productWatch{
+.row1{
+    display: flex;
+    background-color: #CC2127;
+}
+.row1 a{
+     text-decoration: none;
+     color: #2996FD;
+}
+
+
+.productAirPods{
+    float: left;
+    width: 100%;
     background-color: black;
+    justify-content: left;
+
+    text-align: center;
+    color: #F5F5F7;
 }
 
+.productAppleCard{
+    width: 100%;
+    background-color: #FFFFFF;
+    justify-content: right;
+
+    text-align: center;
+    color: black;
+}
+
+.row2{
+    display: flex;
+    background-color: #CC2127;
+}
+.row2 a{
+     text-decoration: none;
+     color: #2996FD;
+}
+
+
+
+.productiPad{
+    width: 100%;
+    background-color: #FFFFFF;
+    justify-content: right;
+
+    text-align: center;
+    color: black;
+}
+
+.productMacBook{
+    width: 100%;
+    background-color: #F5F5F7;
+    justify-content: right;
+
+    text-align: center;
+    color: black;
+}
 
 .foot{
     background-color: #F5F5F7;
