@@ -2,4 +2,6 @@
 
 This repo contains the website clone of the Apple's official website.
 
-Note : Sorry, but website is not responsive
+Demo : https://dulcet-souffle-8927de.netlify.app/
+
+Note : Sorry, but website is not optimized for mobiles/ non-responsive
